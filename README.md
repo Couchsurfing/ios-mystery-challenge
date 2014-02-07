@@ -1,4 +1,4 @@
-ios-mystery-challeng
+ios-mystery-challenge
 ====================
 
 Couchsurfing Mystery Challenge - iOS
